@@ -1,7 +1,7 @@
 {
   "fonts": {
-    "premium": [
-      "Aka011-Regular.ttf",
+    "premium": [],
+    "free": [ "Aka011-Regular.ttf",
       "Aka03-Regular.ttf",
       "Aka05-Regular.ttf",
       "Aka06-Regular.ttf",
@@ -30,8 +30,6 @@
       "SM08_AntiVirus-Regular.ttf",
       "SM09_BeeZee-Regular.otf.ttf",
       "Thit Sar Shwe Si.ttf",
-      "ThitSarShweSi.ttf"
-    ],
-    "free": []
+      "ThitSarShweSi.ttf"]
   }
 }
